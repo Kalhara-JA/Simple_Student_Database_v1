@@ -2,4 +2,6 @@
 Student Database using only JAVA Fundamentals
 
 This is my first JAVA Project . 
-A Student Database run on a terminal.
+Terminal based project.
+No GUIs.
+
